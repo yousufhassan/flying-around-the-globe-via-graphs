@@ -13,8 +13,8 @@ The user selects inputs from dropdown menus, such as the source city, destinatio
 To run the program:
   - [Download the latest version of PyCharm](https://www.jetbrains.com/pycharm/download/)
   - Download all the files in this repository
-  - Download the Python libraries listed in [requirements.txt](https://github.com/yousufhas)san/flying-around-the-globe-via-graphs/blob/main/requirements.txt)
-  - Open the [main.py](https://github.com/yousufhas)san/flying-around-the-globe-via-graphs/blob/main/main.py) file in PyCharm and right click to run it in the Python Console
+  - Download the Python libraries listed in [requirements.txt](https://github.com/yousufhassan/flying-around-the-globe-via-graphs/blob/main/requirements.txt)
+  - Open the [main.py](https://github.com/yousufhassan/flying-around-the-globe-via-graphs/blob/main/main.py) file in PyCharm and right click to run it in the Python Console
   - Click the Dash link in the Python Console which will open the program in your internet browser.
 
 ## Contributions
